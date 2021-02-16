@@ -3,7 +3,7 @@
 # Description: 
     • View news over the world with simple user interface to control news category.
 # Technologies in development :
-    1. RestFull Api using HTTP.
+    1. RestFull Api using Dio.
     2. MVVM With Provider State Managment.
     3. Modal Progress Hud.
     4. Cached Network Image.
